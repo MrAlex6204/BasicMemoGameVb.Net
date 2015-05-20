@@ -1,0 +1,9 @@
+C:\Users\oavera\Source\Repos\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Users\oavera\Source\Repos\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Users\oavera\Source\Repos\Memorama\Memorama\bin\Debug\Memorama.xml
+C:\Users\oavera\Source\Repos\Memorama\Memorama\obj\Debug\Memorama.Memorama.resources
+C:\Users\oavera\Source\Repos\Memorama\Memorama\obj\Debug\Memorama.Resources.resources
+C:\Users\oavera\Source\Repos\Memorama\Memorama\obj\Debug\Memorama.vbproj.GenerateResource.Cache
+C:\Users\oavera\Source\Repos\Memorama\Memorama\obj\Debug\Memorama.exe
+C:\Users\oavera\Source\Repos\Memorama\Memorama\obj\Debug\Memorama.xml
+C:\Users\oavera\Source\Repos\Memorama\Memorama\obj\Debug\Memorama.pdb
