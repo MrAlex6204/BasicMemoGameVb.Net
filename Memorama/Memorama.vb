@@ -112,7 +112,7 @@ ObtenerOtroNum:
             End If
 
             If CountTotal = 10 Then
-                MsgBox("Felicidades has terminado!!!!!")
+                MsgBox("!!!!!Felicidades has terminado!!!!!")
             End If
 
         End If
